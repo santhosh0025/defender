@@ -1,0 +1,18 @@
+.img{
+  width: 440px;
+  height: 350px;
+  border-radius: 20%;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  border: 3px solid black;
+}
+.me{
+  /* display: flex;
+  align-item: center;
+  justify-content: center; */
+ 
+}

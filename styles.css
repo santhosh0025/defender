@@ -1,19 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width:440px,height:350px, border :3px solid-black, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <div class="Header" id="head">
-    <h4>DEFENDER<h4>
-      </div>
-      <div class="profile">
-        <img src="https://stimg.cardekho.com/images/carexteriorimages/930x620/Land-Rover/Defender/9065/Land-Rover-Defender-2.0-90-HSE/1720675371950/front-left-side-47.jpg" class="img" />
-      </div>
-      <button class="me">Buy now!</button>
-  
-</body>
-</html>
+.img{
+  width: 440px;
+  height: 350px;
+  border-radius: 20%;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  border: 3px solid black;
+}
+.me{
+  /* display: flex;
+  align-item: center;
+  justify-content: center; */
+ 
+}
